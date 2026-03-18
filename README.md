@@ -1,4 +1,4 @@
-# AutoSkill: Automatic Skill Discovery and Steering (work in progress)
+# AutoSkill: Automatic Skill Discovery and Steering *(work in progress)*
 
 Code repo for *AutoSkill: Automatic Skill Discovery and Steering for Reasoning LLMs*.
 
